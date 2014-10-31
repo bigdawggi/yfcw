@@ -17,7 +17,7 @@ $gray:                   lighten(#000, 33.5%) !default; // #555
 $gray-light:             lighten(#000, 60%) !default;   // #999
 $gray-lighter:           lighten(#000, 93.5%) !default; // #eee
 
-$brand-primary:         #428bca !default;
+$brand-primary:         #428bca;
 $brand-success:         #498D17;
 $brand-info:            #5bc0de !default;
 $brand-warning:         #f0ad4e !default;
@@ -28,14 +28,14 @@ $brand-danger:          #d9534f !default;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #323232 !default;
+$body-bg:               $gray-dark;
 //** Global text color on `<body>`.
-$text-color:            $gray-dark !default;
+$text-color:            $gray-light;
 
 //** Global textual link color.
-$link-color:            $brand-primary !default;
+$link-color:            $brand-primary;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      darken($link-color, 15%) !default;
+$link-hover-color:      lighten($link-color, 15%);
 
 
 //== Typography
