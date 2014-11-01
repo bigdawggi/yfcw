@@ -2,8 +2,9 @@
 
 <div class="row">
 	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
-		<div class="responsive-video" id="main-video">
-			<iframe src="//player.vimeo.com/video/53702970" width="987px" height="550px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<div class="responsive-video" id="main-video" style="border: 5px dashed #ddd;">
+			<p class="well-lg">Our sincere apologies, the video is still transcoding on the server.  Please check back around 7am Eastern Time.</p>
+			<!-- <iframe src="//player.vimeo.com/video/53702970" width="987px" height="550px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 		</div>
 	</div><!-- /main-video -->
 </div><!-- /row -->
