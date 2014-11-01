@@ -5,6 +5,9 @@
 	<meta name="viewport" content="width=device-width" />
 
 	<title><?php wp_title(' | ', true, 'right'); ?></title>
+
+	<link rel="icon" href="<?php echo get_template_directory_uri() . '/assets/images/favicon.png'; ?>" type="image/png" />
+
 	<?php wp_head(); ?>
 
     <?php if(is_production()) { ?>
