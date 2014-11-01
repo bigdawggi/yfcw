@@ -1,3 +1,6 @@
+wp-content/plugins/amazon-s3-and-cloudfront/
+wp-content/plugins/amazon-web-services/
+
 *~
 .DS_Store
 .svn

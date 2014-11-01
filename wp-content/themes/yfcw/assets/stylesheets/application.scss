@@ -1,6 +1,7 @@
 @import "bootstrap_overrides";
 
 // Fonts
+// @import "../components/font-awesome/scss/font-awesome.scss";
 
 // Core variables and mixins
 @import "../components/twbs-bootstrap-sass/vendor/assets/stylesheets/bootstrap/_variables.scss";
@@ -86,4 +87,18 @@ $nearly-transparent: rgba(103, 103, 103, 0.48);
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+.paypal-donate {
+	display: inline-block;
+}
+
+// .fa-question-circle {
+.label-primary {
+	margin-left: 15px;
+	position: absolute;
+	top: 15px;
+	a {
+		color: #eee;
+	}
 }
