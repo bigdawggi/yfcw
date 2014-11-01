@@ -3,7 +3,8 @@
 <div class="row">
 	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
 		<div class="responsive-video" id="main-video" style="border: 5px dashed #ddd;">
-			<p class="well-lg">Our sincere apologies, the video is still transcoding on the server.  Please check back around 7am Eastern Time.</p>
+			<p class="well-lg">Hi fellow caring person!  Unfortunately the video is still being processed on the servers (yeah, a total bummer!) but don&rsquo;t worry, we&rsquo;re anticipating it being watchable by 8:30am ET.</p>
+			<p class="well-lg">Please check back then and don't worry, it&rsquo;s worth the wait!</p>
 			<!-- <iframe src="//player.vimeo.com/video/53702970" width="987px" height="550px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 		</div>
 	</div><!-- /main-video -->
