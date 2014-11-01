@@ -1,7 +1,7 @@
 	<div id="footer" class="row">
 		<div class="col-sm-12">
 			<div id="copyright">
-			<?php echo sprintf( __( '%1$s %2$s %3$s. All Rights Reserved.'), '&copy;', date('Y'), esc_html(get_bloginfo('name')) ); ?>
+			<?php echo sprintf( __( '%1$s %2$s %3$s. All Rights Reserved. Development by <a href="http://bigdawggi.com/" title="Bigdawggi Co">Bigdawggi</a>'), '&copy;', date('Y'), 'Yoga for Congo Women' ); ?>
 			</div>
 		</div><!-- /col -->
 	</div><!-- #footer -->
