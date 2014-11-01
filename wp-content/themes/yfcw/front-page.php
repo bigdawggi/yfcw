@@ -58,7 +58,7 @@
 <div class="row" id="how-much-should-i-donate">
 	<div class="col-sm-10 col-sm-offset-1">
 		<h3>How much should I donate?</h3>
-		<p>Any donation is accepted, with our sincere thanks.  Please donate what you feel able to.  Any amount is tremendously helpful.  Here are some examples of how your donation can help:</p>
+		<p>Any donation is accepted, with our sincere gratitude.  Please donate what you feel able to.  Any amount is tremendously helpful.  Here are some examples of how your donation can help:</p>
 		<ul class="list-unstyledx">
 			<li><strong>$5</strong> provides the seed money that is set aside for one month for one sister.  At the end of her year-long program, each $5 monthly savings adds up to a $60 seed-money investment in her new business.</li>
 			<li><strong>$30</strong> provides one month of a life-changing and life-saving program for a new sister.</li>
