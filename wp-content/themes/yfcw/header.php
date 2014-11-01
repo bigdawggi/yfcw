@@ -19,7 +19,7 @@
 
 <div id="site-wrapper" class="container-fluid">
 	<header class="row">
-		<div id="logo" class="col-xs-12 col-xs-offset-1">
+		<div id="logo" class="col-xs-12 col-sm-10 col-sm-offset-1">
 			<a href="/" title="Home"><img src="<?php echo get_stylesheet_directory_uri(). '/public/images/yfcw-logo-170x100%202.png'; ?>" height="60" alt="Yoga for Congo Women"></a>
 		</div>
 	</header>
