@@ -11,6 +11,7 @@ require_once('inc/socialfeed/init.php');
 */
 
 // THEME SETUP
+require_once('inc/image-sizes.php');
 require_once('inc/theme-setup.php');
 
 // ENQUEUE SCRIPTS & STYLES

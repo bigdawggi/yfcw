@@ -24,27 +24,27 @@
 	<div class="col-sm-10 col-sm-offset-1">
 		<div class="row featured-pages">
 			<div class="well well-lg col-xs-3 text-center">
-				<a href="/handmade-dolls/" class="overlay">
-					<img src="http://lorempixel.com/200/200/nature/1" class="img-thumbnail">
-					<p class="overlay">Congo Dolls</p>
+				<a href="/help-11yr-old-ashley-sponsor-her-own-sister/" class="overlay">
+					<img src="http://media.yfcw.org/wordpress/wp-content/uploads/2014/10/31073544/IMG_3202-200x200.jpg" class="img-thumbnail">
+					<p class="overlay">Buy a Doll and Help 11yr Old Ashley Sponsor Her Own Sister</p>
 				</a>
 			</div>
 			<div class="well well-lg col-xs-3 text-center">
-				<a href="/dolls/2" class="overlay">
-					<img src="http://lorempixel.com/200/200/nature/2" class="img-thumbnail">
-					<p class="overlay">Tech Impact</p>
+				<a href="/how-does-your-favorite-tech-company-weigh-in/" class="overlay">
+					<img src="http://media.yfcw.org/wordpress/wp-content/uploads/2014/10/14194855/o-CONGO-CONFLICT-MINERALS-facebook-200x200.jpg" class="img-thumbnail">
+					<p class="overlay">How Does Your Favorite Tech Company Weigh In</p>
 				</a>
 			</div>
 			<div class="well well-lg col-xs-3 text-center">
-				<a href="/dolls/3" class="overlay">
-					<img src="http://lorempixel.com/200/200/nature/3" class="img-thumbnail">
-					<p class="overlay">Something Else</p>
+				<a href="/how-can-i-help-more/" class="overlay">
+					<img src="http://media.yfcw.org/wordpress/wp-content/uploads/2014/10/14194855/How-can-I-help-200x200.png" class="img-thumbnail">
+					<p class="overlay">What Else You Can Do</p>
 				</a>
 			</div>
 			<div class="well well-lg col-xs-3 text-center">
-				<a href="/dolls/4" class="overlay">
-					<img src="http://lorempixel.com/200/200/nature/4" class="img-thumbnail">
-					<p class="overlay">Congo Dolls</p>
+				<a href="/mamafrica-and-other-organizations-that-directly-benefit-women-in-congo/" class="overlay">
+					<img src="http://media.yfcw.org/wordpress/wp-content/uploads/2014/10/14194855/mamafrica1-200x200.jpg" class="img-thumbnail">
+					<p class="overlay">MamAfrica and Other Organizations that Directly Benefit Women in Congo</p>
 				</a>
 			</div>
 		</div>
