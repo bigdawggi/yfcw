@@ -3,15 +3,10 @@
 <div class="row">
 	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
 		<em><p>Don't forget your selfies!<br>‪#‎yfcw‬ or ‪#‎yogaforcongowomen‬, or email them to us at <a href="mailto:yogaforcongowomen@gmail.com" title="Send us your selfies!">yogaforcongowomen@gmail.com</a>!</p></em>
-		<div class="responsive-video" id="main-video" style="border: 5px dashed #ddd;">
-			<p class="well-lg">Hi everyone, here's a quick status update! The video conversion process is taking a bit longer than anticipated. We got a countdown from vimeo on this video conversion -- looks like just under 1 more hour (58mins). So get stretching, drink your green smoothies, meditate, invite a couple more friends, or sleep for another hour, and we'll have it up on the site http://yfcw.org/ just as soon as it's done!
-				<br>
-				<br>We appreciate our international friends' patience!
-				<br>
-				<br>Happy Yoga for Congo Women Day!
-			</p>
-			<!-- <iframe src="//player.vimeo.com/video/110639728" width="987px" height="550px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
+		<div class="responsive-video" id="main-video">
+			<iframe src="//player.vimeo.com/video/110639728" width="987px" height="550px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		</div>
+		<small>They're working on converting the HD version (looks sooo good) in the background.  If you need to get going, go ahead and watch the SD now!</small>
 	</div><!-- /main-video -->
 	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
 	</div>
