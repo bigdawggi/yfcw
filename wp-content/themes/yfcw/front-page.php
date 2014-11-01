@@ -64,6 +64,7 @@
 			<li><strong>$90</strong> provides 3 months of a program through Women for Women for a new sister.  During this time, she will begin to receive help for the trauma she has endured, literacy skills, rights-awareness, and skill-specific training.</li>
 			<li><strong>$360</strong> will provide an entire year in the WfW program for one sister.  This program can literally mean the difference between life and death for her and for her children.  This will change everything for her!</li>
 		</ul>
+		<em>PLEASE BE SURE YOUR PAYPAL ADDRESS IS CURRENT, SO WE CAN SEND YOU YOUR BEANIE!</em>
 	</div>
 </div>
 
