@@ -6,7 +6,6 @@
 		<div class="responsive-video" id="main-video">
 			<iframe src="//player.vimeo.com/video/110639728" width="987px" height="550px" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 		</div>
-		<small>They're working on converting the HD version (looks sooo good) in the background.  If you need to get going, go ahead and watch the SD now!</small>
 	</div><!-- /main-video -->
 	<div class="col-xs-12 col-sm-10 col-sm-offset-1">
 	</div>
